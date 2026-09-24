@@ -1,0 +1,3 @@
+peirama,macro_f1,macro_precision,mcc,accuracy,pososto_auto,precision_sta_auto,lathi_sto_katastima,lathi_1049_pros_5,lathi_5_pros_1049,lathi_pros_5_synolika,recall_klasis_5,xronos_sec,macro_f1_mesos_folds,macro_f1_typiki_apoklisi,pososto_auto_mesos_folds,pososto_auto_typiki_apoklisi,lathi_sto_katastima_mesos_folds,lathi_sto_katastima_typiki_apoklisi,lathi_1049_pros_5_mesos_folds,lathi_1049_pros_5_typiki_apoklisi
+sigmoid_ensemble_5fold,0.9838,0.9854,0.9701,0.9845,0.5138,0.9998,2,190,78,197,0.9933,0,0.9803,0.004,0.5324,0.2,11.2,6.8702,188.0,10.3199
+isotonic_ensemble_5fold,0.985,0.987,0.9701,0.9845,0.5918,0.99966,4,190,78,197,0.9933,0,0.9785,0.0031,0.6445,0.0924,17.0,8.9163,189.0,14.2829

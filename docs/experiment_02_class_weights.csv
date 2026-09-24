@@ -1,0 +1,4 @@
+experiment,macro_f1,macro_precision,mcc,accuracy,auto_share,precision_on_auto,storefront_errors,errors_1049_as_5,errors_5_as_1049,errors_into_5_total,recall_class_5,duration_sec
+v1_balanced,0.9757,0.9836,0.9688,0.9838,0.9267,0.99431,105,172,90,184,0.9923,4691
+v2_majority_x0.5,0.974,0.9802,0.9703,0.9846,0.9357,0.99442,104,169,76,178,0.9934,2358
+v3_majority_x0.25,0.9738,0.9792,0.9691,0.984,0.9251,0.99425,106,178,81,190,0.9929,297

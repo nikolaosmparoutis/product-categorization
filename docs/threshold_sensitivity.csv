@@ -1,0 +1,5 @@
+error_cost_eur,threshold,auto_share,review_share,person_hours,precision_on_auto,storefront_errors
+0.5,0.8889,0.9499,0.0501,5.5,0.99313,130
+1.0,0.9444,0.917,0.083,9.2,0.99546,83
+2.0,0.9722,0.8716,0.1284,14.2,0.99689,54
+5.0,0.9889,0.7688,0.2312,25.6,0.9983,26

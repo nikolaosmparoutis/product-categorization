@@ -1,0 +1,4 @@
+experiment,macro_f1,macro_precision,mcc,accuracy,auto_share,precision_on_auto,storefront_errors,errors_1049_as_5,errors_5_as_1049,errors_into_5_total,recall_class_5,duration_sec
+no_calibration,0.9827,0.9843,0.97,0.9844,0.9654,0.99355,124,147,112,158,0.9908,0
+isotonic,0.9757,0.9836,0.9688,0.9838,0.9267,0.99431,105,172,90,184,0.9923,0
+sigmoid,0.9842,0.9891,0.9709,0.9849,0.917,0.99546,83,171,81,181,0.9931,0

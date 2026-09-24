@@ -1,0 +1,11 @@
+pandas
+numpy
+skrub
+scikit-learn
+lightgbm
+shap
+matplotlib
+seaborn
+ipykernel
+jupyter
+optuna

@@ -1,0 +1,16 @@
+{
+  "validation_macro_f1": 0.963,
+  "kalytero_trial_macro_f1": 0.963,
+  "trials_mesa_ston_thoryvo": 2,
+  "params": {
+    "learning_rate": 0.03777058677408153,
+    "num_leaves": 39,
+    "min_child_samples": 13,
+    "subsample": 0.8983659392369691,
+    "colsample_bytree": 0.4221710350612859,
+    "reg_lambda": 0.15501048697606257,
+    "reg_alpha": 0.023675337456611337,
+    "max_bin": 184,
+    "n_estimators": 71
+  }
+}
